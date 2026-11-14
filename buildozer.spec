@@ -15,6 +15,9 @@ source.dir = .
 # (list) Source files to include (let empty to include all files)
 source.include_exts = py,png,jpg,kv,atlas
 
+# (str) Application versioning (version or version.regex)
+version = 0.1
+
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
 requirements = python3,kivy
